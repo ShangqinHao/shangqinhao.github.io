@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shangqin Hao"
 title_separator          : "-"
 name                     : &name "Shangqin Hao"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "ShangqinHao/shangqinhao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shangqin Hao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "La Jolla, California"
+  employer         : "University of California San Diego"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s2hao@ucsd.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
