@@ -211,15 +211,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
+  research:          # This adds a new 'research' collection
+    output: true     # Ensures the 'research' collection is shown
     permalink: /:collection/:path/
+  #teaching:
+  #  output: false
+  #  permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: false
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
