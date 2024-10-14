@@ -8,14 +8,12 @@ redirect_from:
 ---
 
 ### Oral
-**2023 Goldschmidt Conference, Lyon, France** \
-Liang, H., Horner, T. J., & John, S. G. (2023, July). Origin and dissolution of barite in the oceans: Insights from a global ocean dissolved Ba model. In Goldschmidt 2023 Conference. GOLDSCHMIDT.
+**2023 AGU Fall Meeting, San Francisco, CA** \
+**2022 AGU Fall Meeting, Chicago, IL** \
+**2021 AGU Fall Meeting, online** \
+Hao, S., Shearer, P., & Liu, T. (2021, December). Imaging Lithospheric and Transition Zone Discontinuities Beneath Alaska Using Long-Period Teleseismic S-Reflections from USArray. In AGU Fall Meeting Abstracts (Vol. 2021, pp. DI15C-0026).
 
-**2022 Goldschmidt Conference, Honolulu, HI** \
-Liang, H., Lunstrum, A., Dong, S., Berelson, W. M., & John, S. G. (2022, July). Constraining marine calcium carbonate export and dissolution with a global ocean alkalinity model. In 2022 Goldschmidt Conference. GOLDSCHMIDT.
+### Poster
+**2019 AGU Fall Meeting, San Francisco, CA** \
 
-**2022 Ocean Sciences Meeting, online** \
-Liang, H., Lunstrum, A., Dong, S., Berelson, W. M., & John, S. G. (2022, February). Constraining the ocean alkalinity cycle with AWESOME OCIM. In Ocean Sciences Meeting 2022. AGU.
 
-**2020 Ocean Sciences Meeting, San Diego, CA** \
-Liang, H., Moffett, J. W., & John, S. G. (2020, February). Constraining the Global Marine Copper Cycle through a Data-based Modeling Approach. In Ocean Sciences Meeting 2020. AGU.
