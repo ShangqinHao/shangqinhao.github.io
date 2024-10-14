@@ -21,7 +21,7 @@ repository               : "ShangqinHao/shangqinhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mybio_low_resolution.jpg"
   name             : "Shangqin Hao"
   pronouns         : "he/him"  
   bio              : "Seismologist"
