@@ -30,3 +30,4 @@ Research Interests
 * Global seismology using teleseismic body waves 
 * Mantle transition zone discontinuities
 * Fine-scale shallow structure using dense arrays
+* Integrating seismic observations with mineral physics data
