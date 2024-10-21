@@ -10,9 +10,9 @@ redirect_from:
 ### Oral
 **2023 AGU Fall Meeting, San Francisco, CA** \
 **2022 AGU Fall Meeting, Chicago, IL** \
-**2021 AGU Fall Meeting, online** \
+**2021 AGU Fall Meeting, online** 
 
 ### Poster
-**2019 AGU Fall Meeting, San Francisco, CA** \
+**2019 AGU Fall Meeting, San Francisco, CA** 
 
 
