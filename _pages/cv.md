@@ -6,7 +6,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
 [My CV](CV.pdf)
