@@ -12,7 +12,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com.
 
 In review
 ======
-* **Hao, S.**, Wei, S. S., Shearer, P. M. Substantial global radial variations of basalt content near the 660-km discontinuity. Submitted to AGU Advances.
+* **Hao, S.**, Wei, S. S., Shearer, P. M. Substantial global radial variations of basalt content near the 660-km discontinuity. Minor revision submitted to AGU Advances.
 
 Published
 ======
