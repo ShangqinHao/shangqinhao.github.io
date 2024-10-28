@@ -12,10 +12,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com.
 
 In review
 ======
-* **Hao, S.**, Wei, S. S., Shearer, P. M. Substantial global radial variations of basalt content near the 660-km discontinuity. Minor revision submitted to AGU Advances.
 
 Published
 ======
+* **Hao, S.**, Wei, S. S., Shearer, P. M. Substantial global radial variations of basalt content near the 660-km discontinuity. Accepted by AGU Advances.
 * **Hao, S.**, Yang, D., Wang, W., Zou, F., & Wu, Z. (2024). Thermoelasticity of phase D and implications for low-velocity anomalies and local discontinuities at the uppermost lower mantle. American Mineralogist.
 * Deng, X., Xu, Y., **Hao, S.**, Ruan, Y., Zhao, Y., Wang, W., ... & Wu, Z. (2023). Compositional and thermal state of the lower mantle from joint 3D inversion with seismic tomography and mineral elasticity. Proceedings of the National Academy of Sciences, 120(26), e2220178120.
 * **Hao, S.**, Shearer, P., & Liu, T. (2023). The Upper‐Mantle Structure Beneath Alaska Imaged by Teleseismic S‐Wave Reverberations. Journal of Geophysical Research: Solid Earth, 128(6), e2023JB026667.
