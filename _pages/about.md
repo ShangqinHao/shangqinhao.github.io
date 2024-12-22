@@ -30,6 +30,6 @@ Education
 Research Interests
 ======
 * Global seismology using teleseismic body waves 
-* Mantle transition zone discontinuities
+* Observation and interpretation of seismic discontinuities and anisotropy
 * Fine-scale shallow structure using dense arrays
-* Integrating seismic observations with mineral physics data
+* Integrating seismic observations with mineral physics and geodynamic modeling
