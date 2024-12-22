@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Shangqin Hao (郝尚钦), a PhD candidate at the [Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, UC San Diego](https://igpp.ucsd.edu/). I am interested in resolving fine-scale structures in the Earth's deep interior using various teleseismic body waves. By integrating seismic observations with mineral physics and geodynamic modeling, we can deepen our understanding of the Earth's composition and its evolutionary processes. I am also interested in resolving detailed shallow structures using dense arrays and novel approaches.
+I am Shangqin Hao (郝尚钦), a PhD candidate at the [Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, UC San Diego](https://igpp.ucsd.edu/). My research focuses on resolving fine-scale structures in the Earth's interior, primarily through the analysis of teleseismic body waves. By integrating seismic observations with insights from mineral physics and geodynamic modeling, I aim to advance our understanding of the Earth's temperature distribution, compositional variations, and evolutionary processes. 
+I am also interested in resolving detailed shallow structures using dense seismic arrays and innovative methodologies, with the goal of addressing critical environmental and societal challenges.
+
 
 <!-- 
 I am also interested in applying novel approaches in seismology, such as
