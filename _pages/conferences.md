@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 ### Oral
-* 2023 AGU Fall Meeting, San Francisco, CA
-* 2022 AGU Fall Meeting, Chicago, IL
-* 2021 AGU Fall Meeting, online
+* Invited talk at Woods Hole Oceanographic Institution titled "Compositional Heterogeneity of the Mantle: Insights from Imaging of Mantle Discontinuities"
+* 2021-2024 AGU Fall Meeting
 
 ### Poster
 * 2019 AGU Fall Meeting, San Francisco, CA 
