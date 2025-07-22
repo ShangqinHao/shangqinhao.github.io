@@ -17,12 +17,12 @@ I am also interested in applying novel approaches in seismology, such as
 <!-- 
 Professional Appointments
 ======
-* Postdoctoral associate, Massachusetts Institute of Technology, Sept. 2023 ~ present  
+* Postdoctoral associate, University of California Berkeley, Sept. 2025 ~ present  
 -->
 
 Education
 ======
-* Ph.D. candidate in Geophysics, University of California San Diego, Sept., 2020 ~ Now
+* Ph.D. in Earth Sciences, University of California San Diego, Sept., 2020 ~ Aug., 2025
 * M.S. in Geophysics, University of Science and Technology of China, Sept., 2017 ~ Jul., 2020
 * B.S. in Geology, Nanjing University, Sept., 2013 ~ Jul., 2017
 
