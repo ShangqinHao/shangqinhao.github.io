@@ -220,15 +220,15 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: false
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-  CV:
-    output: false
-    permalink: /:collection/:path/
+  #CV:
+  #  output: false
+  #  permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
