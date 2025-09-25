@@ -17,18 +17,18 @@ I am also interested in applying novel approaches in seismology, such as
 <!-- 
 Professional Appointments
 ======
-* Postdoctoral associate, University of California Berkeley, Sept. 2025 ~ present  
+* Postdoctoral associate, University of California Berkeley, Oct. 2025 ~ present  
 -->
 
 Education
 ======
-* Ph.D. in Earth Sciences, University of California San Diego, Sept., 2020 ~ Aug., 2025
-* M.S. in Geophysics, University of Science and Technology of China, Sept., 2017 ~ Jul., 2020
-* B.S. in Geology, Nanjing University, Sept., 2013 ~ Jul., 2017
+* Ph.D. in Earth Sciences, University of California San Diego, 2020 ~ 2025
+* M.S. in Geophysics, University of Science and Technology of China, 2017 ~ 2020
+* B.S. in Geology, Nanjing University, 2013 ~ 2017
 
 Research Interests
 ======
 * Global seismology using teleseismic body waves 
 * Observation and interpretation of seismic discontinuities and anisotropy
-* Fine-scale shallow structure using dense arrays
+* Seismic ocean thermometry
 * Integrating seismic observations with mineral physics and geodynamic modeling
