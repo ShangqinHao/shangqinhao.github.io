@@ -12,6 +12,8 @@ redirect_from:
 * 2021-2024 AGU Fall Meeting
 
 ### Poster
-* 2019 AGU Fall Meeting, San Francisco, CA 
+* 2024 SEDI Conference, Barrington MA
+* 2023, 2025 Gordon Research Conference: Interior of the Earth, South Hadley MA
+* 2019 AGU Fall Meeting, San Francisco CA
 
 
