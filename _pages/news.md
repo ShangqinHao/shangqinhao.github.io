@@ -7,10 +7,11 @@ author_profile: true
 <!-- 
 # []I joined Professor Wenbo Wu's group at UC Berkeley. I will work on seismic ocean thermometry.
 -->  
+### [Oct 6, 2025] I joined Professor Wenbo Wu's group at UC Berkeley.
 
 ### [Aug 31, 2025] I officially graduated from UC San Diego with a Ph.D. in Earth Sciences.
 
-### [July 18, 2025] I successfully defended my dissertation titled "Compositional Heterogeneity of the Mantle: Insights from Imaging of Mantle Discontinuities".
+### [July 18, 2025] I successfully defended my dissertation titled "*Compositional Heterogeneity of the Mantle: Insights from Imaging of Mantle Discontinuities*".
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="/images/defense1.JPG" alt="A photo of my defense" width="335">
   <img src="/images/defense2.jpeg" alt="A photo of my defense" width="295">
@@ -30,7 +31,7 @@ author_profile: true
 
 ### [Apr 17, 2023] Our manuscript "Compositional and thermal state of the lower mantle from joint 3D inversion with seismic tomography and mineral elasticity" was accepted by *PNAS*.
 
-### [June, 2020] I graduated from University of Science and Technology of China with a master's degree in Solid Earth Geophysics.
+### [June, 2020] I graduated from the University of Science and Technology of China with a master's degree in *Solid Earth Geophysics*.
 
 ### [Sep 9, 2019] Our manuscript "Elasticity of akimotoite under the mantle conditions: Implications for multiple discontinuities and seismic anisotropies at the depth of ~600–750 km in subduction zones" was accepted by *EPSL*.
 
