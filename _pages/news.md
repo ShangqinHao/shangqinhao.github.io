@@ -7,7 +7,7 @@ author_profile: true
 <!-- 
 # []I joined Professor Wenbo Wu's group at UC Berkeley. I will work on seismic ocean thermometry.
 -->  
-### [Oct 6, 2025] I joined Professor Wenbo Wu's group at UC Berkeley.
+### [Oct 6, 2025] I started my postdoc at Professor Wenbo Wu's group at UC Berkeley.
 
 ### [Aug 31, 2025] I officially graduated from UC San Diego with a Ph.D. in Earth Sciences.
 

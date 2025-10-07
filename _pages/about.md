@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scholar at [Earth and Planetary Science Department, UC Berkeley](https://eps.berkeley.edu/home). My research focuses on: (1) Resolving fine-scale structures in the Earth's interior, primarily through the analysis of teleseismic body waves; (2) Integrating seismic observations with insights from mineral physics and geodynamic modeling to advance our understanding of the Earth's temperature distribution, compositional variations, and evolutionary processes; (3) Constraining global ocean temperature changes through the application and development of seismic ocean thermometry.
+I am currently a postdoctoral scholar at [Earth and Planetary Science Department, UC Berkeley](https://eps.berkeley.edu/home). My research focuses on: 
+* Resolving fine-scale structures in the Earth's interior, primarily through the analysis of teleseismic body waves
+* Integrating seismic observations with insights from mineral physics and geodynamic modeling to advance our understanding of the Earth's temperature distribution, compositional variations, and evolutionary processes
+* Constraining global ocean temperature changes through the application and development of seismic ocean thermometry
 
 <!-- 
 I am also interested in applying novel approaches in seismology, such as
