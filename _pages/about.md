@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scholar at [Earth and Planetary Science Department, UC Berkeley](https://eps.berkeley.edu/home). My research focuses on: 
+I am currently a postdoctoral scholar at [Berkeley Seismology Lab](https://seismo.berkeley.edu/). My research focuses on: 
 * Resolving fine-scale structures in the Earth's interior, primarily through the analysis of teleseismic body waves
 * Integrating seismic observations with insights from mineral physics and geodynamic modeling to advance our understanding of the Earth's temperature distribution, compositional variations, and evolutionary processes
 * Constraining global ocean temperature changes through the application and development of seismic ocean thermometry
