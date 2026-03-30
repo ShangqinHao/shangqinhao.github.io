@@ -11,7 +11,7 @@ I am currently a postdoctoral scholar at [Berkeley Seismology Lab](https://seism
 * Deep Earth: Resolving fine-scale seismic structure of Earth's interior and applying multidisciplinary constraints to understand planetary thermal and compositional states.
 * Deep Ocean: Advancing seismic ocean thermometry to quantify and constrain global ocean temperature variations.
 
-<!-->
+<!--
 * Resolving fine-scale structures in the Earth's interior, primarily through the analysis of teleseismic body waves
 * Integrating seismic observations with insights from mineral physics and geodynamic modeling to advance our understanding of the Earth's temperature distribution, compositional variations, and evolutionary processes
 * Constraining global ocean temperature changes through the application and development of seismic ocean thermometry
