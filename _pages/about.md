@@ -10,6 +10,7 @@ redirect_from:
 I am currently a postdoctoral scholar at [Berkeley Seismology Lab](https://seismo.berkeley.edu/). My research focuses on: 
 * Deep Earth: Resolving fine-scale seismic structure of Earth's interior and applying multidisciplinary constraints to understand planetary thermal and compositional states.
 * Deep Ocean: Advancing seismic ocean thermometry to quantify and constrain global ocean temperature variations.
+* Distributed Acoustic Sensing (DAS): Using DAS to enhance our understanding of Ocean and Earth's interior.
 
 <!--
 * Resolving fine-scale structures in the Earth's interior, primarily through the analysis of teleseismic body waves
@@ -25,13 +26,16 @@ I am also interested in applying novel approaches in seismology, such as
 Professional Appointments
 ======
 * Postdoctoral Scholar, University of California Berkeley, Oct. 2025 ~ present
-* Graduate Student Researcher, University of California San Diego, Sep. 2020 ~ Aug. 2025  
+  * Supervisor: Prof. Wenbo Wu
 
 Education
 ======
 * Ph.D. in Earth Sciences, University of California San Diego, 2020 ~ 2025
+  * Supervisor: Prof. Peter Shearer
 * M.S. in Geophysics, University of Science and Technology of China, 2017 ~ 2020
+  * Supervisor: Prof. Zhongqing Wu
 * B.S. in Geology, Nanjing University, 2013 ~ 2017
+  * Supervisor: Prof. Zhongqing Wu and Prof. Tao Wang
 
 <!--
 Research Interests
